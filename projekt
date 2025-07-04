@@ -12,17 +12,14 @@ git add .
 git commit -m "Inicjalizacja projektu"
 git push -u origin master
 
-# 🐍 Mój Projekt Python
 
-## 📌 Opis
-To jest przykładowy projekt w języku Python, który demonstruje użycie Git i GitHub.
+git checkout -b feature/navigation
 
-## 🚀 Instalacja
+git add .
+git commit -m "feat: dodano menu nawigacyjne"
+git push origin feature/navigation
 
-```bash
-git clone https://github.com/zarzyckas/moj-projekt.git
-cd moj-projekt
-pip install -r requirements.txt
+
 
 
 
