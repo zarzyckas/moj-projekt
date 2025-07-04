@@ -20,11 +20,3 @@ moj-projekt/
 ├── requirements.txt
 └── README.md
 
-
-<nav>
-  <ul>
-    <li><a href="index.html">Strona główna</a></li>
-    <li><a href="about.html">O nas</a></li>
-    <li><a href="contact.html">Kontakt</a></li>
-  </ul>
-</nav>
