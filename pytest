@@ -1,0 +1,8 @@
+def test_email_validator():
+    assert is_valid("test@example.com")
+    assert not is_valid("test@")
+
+def is_valid(email):
+    return "@" in email and "." in email
+
+pytest --cov=src
