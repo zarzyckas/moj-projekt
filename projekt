@@ -11,3 +11,18 @@ git remote add origin https://github.com/zarzyckas/moj-projekt.git
 git add .
 git commit -m "Inicjalizacja projektu"
 git push -u origin master
+
+# 🐍 Mój Projekt Python
+
+## 📌 Opis
+To jest przykładowy projekt w języku Python, który demonstruje użycie Git i GitHub.
+
+## 🚀 Instalacja
+
+```bash
+git clone https://github.com/zarzyckas/moj-projekt.git
+cd moj-projekt
+pip install -r requirements.txt
+
+
+
