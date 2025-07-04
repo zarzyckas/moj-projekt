@@ -24,5 +24,13 @@ git clone https://github.com/zarzyckas/moj-projekt.git
 cd moj-projekt
 pip install -r requirements.txt
 
+def przywitanie():
+    print("Cześć! To mój pierwszy projekt w Pythonie.")
+
+przywitanie()
+
+git add src/main.py
+git commit -m "Dodano funkcję przywitanie() do main.py"
+git push
 
 
