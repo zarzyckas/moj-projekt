@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.log
+
+# IDE/edytory
+.vscode/
+.idea/
+
+# Wirtualne środowisko
+venv/
+
+git add .gitignore
+git commit -m "Dodano plik .gitignore"
+git push
