@@ -11,7 +11,7 @@ cd moj-projekt
 pip install -r requirements.txt
 
 
-Struktura katalogów
+##Struktura katalogów
 
 moj-projekt/
 ├── src/
