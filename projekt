@@ -22,4 +22,8 @@ git add src/main.py
 git commit -m "Dodano funkcję przywitanie() do main.py"
 git push
 
+git tag v1.0.0  # MAJOR
+git tag v1.1.0  # MINOR
+git tag v1.1.1  # PATCH
+git push --tags
 
