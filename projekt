@@ -1,0 +1,13 @@
+mkdir moj-projekt
+cd moj-projekt
+git init
+
+mkdir src tests
+touch src/main.py
+touch requirements.txt
+touch README.md
+
+git remote add origin https://github.com/zarzyckas/moj-projekt.git
+git add .
+git commit -m "Inicjalizacja projektu"
+git push -u origin master
