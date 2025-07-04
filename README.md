@@ -10,6 +10,9 @@ git clone https://github.com/zarzyckas/moj-projekt.git
 cd moj-projekt
 pip install -r requirements.txt
 
+
+Struktura katalogów
+
 moj-projekt/
 ├── src/
 │   └── main.py
