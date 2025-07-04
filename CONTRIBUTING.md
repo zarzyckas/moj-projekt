@@ -1,4 +1,4 @@
-# 🤝 Wkład w projekt
+# Wkład w projekt
 
 Dziękujemy za zainteresowanie! Aby wnieść wkład:
 
