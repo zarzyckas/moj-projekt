@@ -1,9 +1,9 @@
-# 🐍 Mój Projekt Python
+# Mój Projekt Python
 
-## 📌 Opis
+##  Opis
 To jest przykładowy projekt w języku Python, który demonstruje użycie Git i GitHub.
 
-## 🚀 Instalacja
+##  Instalacja
 
 ```bash
 git clone https://github.com/zarzyckas/moj-projekt.git
